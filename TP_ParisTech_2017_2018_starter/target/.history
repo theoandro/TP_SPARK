@@ -1,0 +1,3 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/mb/dpnh_g2n0ld7plktghv98lh40000gn/T/sbt-structure.xml
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/zn/yqj44vys2_9dpw6cjnjzq8yc0000gn/T/sbt-structure.xml
+ls
